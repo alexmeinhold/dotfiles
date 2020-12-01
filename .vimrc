@@ -16,3 +16,4 @@ filetype plugin indent on   " enable file type detection
 
 autocmd FileType c,make,go setlocal noexpandtab
 autocmd FileType cpp setlocal shiftwidth=2 softtabstop=2 
+autocmd FileType html,css,javascript setlocal shiftwidth=2 softtabstop=2 
